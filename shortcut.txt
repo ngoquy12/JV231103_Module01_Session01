@@ -1,0 +1,6 @@
+- Copy code
+  + Bôi đen phần cần copy: ctrl + c và ctrl + v
+  + Focus chuột vào dòng cần copy: ctrl + c và ctrl + v
+  + alt + shift + mũi tên lên / xuống
+- Thay đổi những đoạn text giống nhau
+  + Bôi đen những đoạn text giống nhau: ctrl + shift + L (Để chọn tất cả) hoặc ctrl + D (Chọn từng cái)
